@@ -1,0 +1,11 @@
+.idea/
+
+**/static
+**/logs
+**/media
+**/migrations
+**/__pycache__
+.pytest_cache
+
+*.env
+Pipfile

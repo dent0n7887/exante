@@ -1,0 +1,11 @@
+aio-http
+setuptools
+sqlalchemy
+pydantic
+asyncpg
+python-dotenv
+psycopg2-binary
+mockito
+webargs
+gunicorn
+pytest-aiohttp
